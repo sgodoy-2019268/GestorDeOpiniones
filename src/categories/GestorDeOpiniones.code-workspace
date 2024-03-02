@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../GestorDeOpiniones-main/src/categories"
+		},
+		{
+			"path": "../../../GestorDeOpiniones-main/src/comentarios"
+		},
+		{
+			"path": "../../../GestorDeOpiniones-main/src/opiniones"
+		}
+	],
+	"settings": {}
+}
